@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "868eeec2-fad1-43c7-89fa-d6a35da3a2c6",
+		"name": "subscription-tracker",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "46361536",
+		"_collection_link": "https://restless-rocket-1042120.postman.co/workspace/'Toki-'Tosin's-Workspace~d67a6887-e8ca-4d24-8e2d-27939c5d8ba1/collection/46361536-868eeec2-fad1-43c7-89fa-d6a35da3a2c6?action=share&source=collection_link&creator=46361536"
+	},
+	"item": [
+		{
+			"name": "Fetching Tracker Data",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
