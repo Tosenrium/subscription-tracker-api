@@ -1,9 +1,6 @@
-```text
-=========================================================
-📦 SUBSCRIPTION TRACKER API
-Backend Engineering | REST API | Authentication
-=========================================================
-```
+<p align="center">
+  <img src="./assets/banner.png" alt="Subscription Tracker API Banner" width="100%">
+</p>
 
 A production-ready RESTful API built with **Node.js**, **Express.js**, and **MongoDB** for securely managing recurring subscriptions, authentication, billing cycles, and renewal tracking.
 A robust RESTful API for managing recurring subscriptions, helping users track billing cycles, monitor upcoming renewals, and stay on top of recurring expenses.
